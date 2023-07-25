@@ -1,5 +1,14 @@
 # P10OC
-Installation
+
+### Ceci est une API Restful pour la société SoftDesk.
+L'API doit respecter les directives suivantes :
+
+Les utrilisateurs peuvent créer un compte et se connecter.
+Un utilisateur peut crééer un projet, des "Issues" et des commentaires.
+Selon un système  de permission, certains utilisateurs voient leurs actions restreintes pour certaines fonctionnalités.
+Pour en savoir plus :
+
+## Installation
 Commencez tout d'abord par installer Python et un IDE de votre choix (PyCharm, VSCode...).
 
 Lancez ensuite la console, placez vous dans le dossier de votre choix puis clonez ce répertoire:
