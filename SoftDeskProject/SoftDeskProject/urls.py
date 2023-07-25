@@ -22,6 +22,8 @@ from rest_framework_nested import routers
 from rest_framework_simplejwt.views import (TokenObtainPairView,
                                             TokenRefreshView)
 
+# Système de routeur prenant en paramètre un id pour
+# atteindre un objet
 router = routers.SimpleRouter(trailing_slash=True)
 router.register(r"project/?", ProjectView, basename="project")
 
