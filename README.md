@@ -4,21 +4,21 @@ Commencez tout d'abord par installer Python et un IDE de votre choix (PyCharm, V
 
 Lancez ensuite la console, placez vous dans le dossier de votre choix puis clonez ce répertoire:
 
-git clone (https://github.com/ChristopherOC/P10OC.git)
+> git clone (https://github.com/ChristopherOC/P10OC.git)
 
 Placez-vous dans le dossier créé, créez l'environnement virtuel :
 
-python -m venv env
+> python -m venv env
 
 Activez le comme ceci : 
 
 Windows :
 
-env\scripts\activate.bat
+> env\scripts\activate.bat
 
 Linux :
 
-source env/bin/activate
+> source env/bin/activate
 
 Exécution
 Pour lancer l'application, rendez-vous dans le terminal intégré de votre IDE. Entrez dans le dossier l'application avec la commande suivante :
